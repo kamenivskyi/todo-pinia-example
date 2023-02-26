@@ -1,6 +1,10 @@
 # todo_sample
 
-### Main logic location: stores/todo.ts
+### Main logic location:
+
+### src/stores/todo.ts
+
+### src/components/TodoApp.vue
 
 ## Recommended IDE Setup
 
