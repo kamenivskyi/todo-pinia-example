@@ -2,9 +2,9 @@
 
 ### Main logic location:
 
-### src/stores/todo.ts
+```src/stores/todo.ts```
 
-### src/components/TodoApp.vue
+```src/components/TodoApp.vue```
 
 ## Recommended IDE Setup
 
